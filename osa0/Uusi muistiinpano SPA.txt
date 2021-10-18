@@ -1,0 +1,6 @@
+selain->palvelin: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+
+note over selain:
+selain lähettää tiedon muistiinpanoihin
+javascript pitää yllä tietoja, ja sivua ei tarvitse ladata kokonaan uudelleen
+end note
